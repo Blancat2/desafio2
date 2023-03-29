@@ -1,0 +1,22 @@
+tbody{
+    background-color: #b2eff1;
+
+}
+th {
+    color:rgb(0, 0, 0);
+    background-color: #50dcff;
+}
+h1{
+    background-color: #50dcff;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.container-fluid{
+    background-color: #50dcff;
+    padding: 2%;
+}
